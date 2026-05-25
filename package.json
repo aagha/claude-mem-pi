@@ -1,5 +1,5 @@
 {
-  "name": "claude-mem",
+  "name": "claude-mem-pi",
   "version": "1.0.0",
   "description": "Pi extension that shares claude-mem's persistent memory store with Claude Code — observations, context injection, and session summaries across both harnesses.",
   "keywords": ["pi-package", "claude-mem", "memory", "claude-code"],

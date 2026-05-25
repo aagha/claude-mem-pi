@@ -46,7 +46,7 @@ The worker (Express HTTP server on `127.0.0.1:37700`) handles all storage, AI pr
 ## Install
 
 ```bash
-pi install npm:claude-mem
+pi install npm:claude-mem-pi
 ```
 
 Or via git:
