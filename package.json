@@ -1,0 +1,14 @@
+{
+  "name": "claude-mem",
+  "version": "1.0.0",
+  "description": "Pi extension that shares claude-mem's persistent memory store with Claude Code — observations, context injection, and session summaries across both harnesses.",
+  "keywords": ["pi-package", "claude-mem", "memory", "claude-code"],
+  "author": "Aurangzeb Agha",
+  "license": "MIT",
+  "pi": {
+    "extensions": ["./extensions/claude-mem.ts"]
+  },
+  "peerDependencies": {
+    "@earendil-works/pi-coding-agent": "*"
+  }
+}
